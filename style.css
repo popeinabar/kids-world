@@ -1,0 +1,17 @@
+.photo{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1 fr;
+grid-column-end: 3;
+
+
+gap: 50px;
+
+
+}
+ 
+img{
+height: 400px;
+width: 300px;
+
+ }
